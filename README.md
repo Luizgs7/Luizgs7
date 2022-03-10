@@ -36,5 +36,13 @@ On my LinkedIn account you can find out more about my professional experience an
   <a href="https://www.coursera.org/user/05cb4b1bcd775ca729df0e7c6f141e28" target="_blank"><img src="  https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/luizgsouza" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <a href="https://trailblazer.me/id/luizgsouzacrm" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"></a>
-
 </div>
+
+##
+  
+### Some projects that you can find here on my GitHub accout are abou:
+
+- Creating my own data-set of images to star my Neural Network studies, applying concepts of retrieving data from an API [link](https://github.com/Luizgs7/Movies_DataSet)
+- SQL course I developed to disseminate the use of SQL to analyze customer data in the company where I work [link](https://github.com/Luizgs7/Curso_SQL_para_CRM)
+- Network analysis with Input-Output Matrix presented as my undergraduate thesis [link](https://github.com/Luizgs7/Monografia_UFPR_Ciencias_Economicas_2019)
+  

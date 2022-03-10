@@ -26,6 +26,8 @@ Here, in my github account, you can find some of my projetcs and studies.
 
 ### How to get in touch with me
   
+On my LinkedIn account you can find out more about my professional experience and courses that a have taken. 
+  
 <div> 
   <a href = "luiz.gabriel.souza@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/luizgsouzacrm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   

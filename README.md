@@ -8,7 +8,7 @@ Here, in my github account, you can find some of my projetcs and studies.
   <a href="https://github.com/Luizgs7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizgs7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgs7&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div>  
     
   
 ### Techs that a like to use:  
@@ -22,7 +22,7 @@ I have experience working with a lot of tech tools, for coding (Python, R, etc),
   <img align="center" alt="luiz-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="luiz-GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">    
   <img align="center" alt="luiz-Salesforce" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
-</div>
+</div>  
   
   
 ### How to get in touch with me:  
@@ -36,7 +36,7 @@ On my LinkedIn account you can find out more about my professional experience an
   <a href="https://www.coursera.org/user/05cb4b1bcd775ca729df0e7c6f141e28" target="_blank"><img src="  https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/luizgsouza" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <a href="https://trailblazer.me/id/luizgsouzacrm" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"></a>
-</div>
+</div>  
 
 ### Some projects that you can find here on my GitHub account are about:  
 

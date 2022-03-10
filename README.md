@@ -10,8 +10,10 @@ Here, in my github account, you can find some of my projetcs and studies.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgs7&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-### Techs that a like to use
-
+  
+### Techs that a like to use:  
+  
+  
 I have experience working with a lot of tech tools, for coding (Python, R, etc), Business Inteligence (Tableu, PowerBI, etc) and SQL (SQLite, Teradata, BigQuery, etc). I like to learn how to use new tools because I think that they can help a lot and make our work easier.
   
 <div style="display: inline_block"><br>
@@ -22,7 +24,9 @@ I have experience working with a lot of tech tools, for coding (Python, R, etc),
   <img align="center" alt="luiz-Salesforce" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
 </div>
   
-### How to get in touch with me
+  
+### How to get in touch with me:  
+  
   
 On my LinkedIn account you can find out more about my professional experience and courses that a have taken. 
   
@@ -34,8 +38,9 @@ On my LinkedIn account you can find out more about my professional experience an
   <a href="https://trailblazer.me/id/luizgsouzacrm" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"></a>
 </div>
 
-### Some projects that you can find here on my GitHub accout are abou:
+### Some projects that you can find here on my GitHub account are about:  
 
+  
 * Creating my own data-set of images to star my Neural Network studies, applying concepts of retrieving data from an API [link](https://github.com/Luizgs7/Movies_DataSet)
 * SQL course I developed to disseminate the use of SQL to analyze customer data in the company where I work [link](https://github.com/Luizgs7/Curso_SQL_para_CRM)
 * Network analysis with Input-Output Matrix presented as my undergraduate thesis [link](https://github.com/Luizgs7/Monografia_UFPR_Ciencias_Economicas_2019)

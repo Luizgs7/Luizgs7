@@ -9,8 +9,6 @@ Here, in my github account, you can find some of my projetcs and studies.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizgs7&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgs7&layout=compact&langs_count=7&theme=dark">
 </div>  
- 
-######
   
 ## Techs that a like to use:  
   

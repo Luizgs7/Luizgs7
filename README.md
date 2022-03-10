@@ -1,4 +1,4 @@
-## Hi, I'm Luiz!
+# Hi, I'm Luiz!
 
 I'm an Economist and Data Scientist that loves basketball 🏀
 
@@ -9,9 +9,9 @@ Here, in my github account, you can find some of my projetcs and studies.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizgs7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgs7&layout=compact&langs_count=7&theme=dark"/>
 </div>  
-    
   
-### Techs that a like to use:  
+  
+## Techs that a like to use:  
   
   
 I have experience working with a lot of tech tools, for coding (Python, R, etc), Business Inteligence (Tableu, PowerBI, etc) and SQL (SQLite, Teradata, BigQuery, etc). I like to learn how to use new tools because I think that they can help a lot and make our work easier.
@@ -25,7 +25,7 @@ I have experience working with a lot of tech tools, for coding (Python, R, etc),
 </div>  
   
   
-### How to get in touch with me:  
+## How to get in touch with me:  
   
   
 On my LinkedIn account you can find out more about my professional experience and courses that a have taken. 
@@ -38,7 +38,7 @@ On my LinkedIn account you can find out more about my professional experience an
   <a href="https://trailblazer.me/id/luizgsouzacrm" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"></a>
 </div>  
 
-### Some projects that you can find here on my GitHub account are about:  
+## Some projects that you can find here on my GitHub account are about:  
 
   
 * Creating my own data-set of images to star my Neural Network studies, applying concepts of retrieving data from an API [link](https://github.com/Luizgs7/Movies_DataSet)

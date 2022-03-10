@@ -14,6 +14,8 @@ Here, in my github account, you can find some of my projetcs and studies.
   
 ### Techs that a like to use
 
+I have experience working with a lot of tech tools, for coding (Python, R, etc), Business Inteligence (Tableu, PowerBI, etc) and SQL (SQLite, Teradata, BigQuery, etc). I like to learn how to use new tools because I think that they can help a lot and make our work easier.
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="luiz-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="luiz-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
